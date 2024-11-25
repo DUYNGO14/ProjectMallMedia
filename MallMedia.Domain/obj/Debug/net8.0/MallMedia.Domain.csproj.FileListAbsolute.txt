@@ -1,0 +1,12 @@
+D:\Asp.Net\MallMedia\MallMedia.Domain\bin\Debug\net8.0\MallMedia.Domain.deps.json
+D:\Asp.Net\MallMedia\MallMedia.Domain\bin\Debug\net8.0\MallMedia.Domain.dll
+D:\Asp.Net\MallMedia\MallMedia.Domain\bin\Debug\net8.0\MallMedia.Domain.pdb
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.csproj.AssemblyReference.cache
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.AssemblyInfoInputs.cache
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.AssemblyInfo.cs
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.csproj.CoreCompileInputs.cache
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.dll
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\refint\MallMedia.Domain.dll
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\MallMedia.Domain.pdb
+D:\Asp.Net\MallMedia\MallMedia.Domain\obj\Debug\net8.0\ref\MallMedia.Domain.dll

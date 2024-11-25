@@ -1,0 +1,17 @@
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Infrastructure.deps.json
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Infrastructure.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Infrastructure.pdb
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.csproj.AssemblyReference.cache
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.AssemblyInfo.cs
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\refint\MallMedia.Infrastructure.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedia.Infrastructure.pdb
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\ref\MallMedia.Infrastructure.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Application.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Domain.dll
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Application.pdb
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\bin\Debug\net8.0\MallMedia.Domain.pdb
+D:\Asp.Net\MallMedia\MallMedia.Infrastructure\obj\Debug\net8.0\MallMedi.AF7A2B39.Up2Date

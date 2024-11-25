@@ -1,0 +1,6 @@
+@MallMedia.API_HostAddress = http://localhost:5105
+
+GET {{MallMedia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
